@@ -1,5 +1,7 @@
 ## For Raspberry Pi,
 - `npm install raspi-io`
+- `npm install johnny-five`
+- `node raspberry-pi.js`
 
 ## For Arduino Nano,
 - Arduino IDE download
@@ -7,8 +9,11 @@
 - Tools > Board > Arduino Nano
 - Tools> Processor > ATmega328P (Old Bootloader)
 - Tools> Port > usbserial-xxx
+- `npm install johnny-five`
+- `node arduino.js`
 
-#### when occurred an error about serialport on MacOS
+
+#### when occurred an error about serialport (arduino) on MacOS
 
 firstly,
 
