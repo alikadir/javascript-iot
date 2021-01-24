@@ -1,6 +1,7 @@
+## For Raspberry Pi,
+- `npm install raspi-io`
 
-
-#### For Arduino Nano,
+## For Arduino Nano,
 - Arduino IDE download
 - File > Example > Firmata > StandardFirmataPlus
 - Tools > Board > Arduino Nano
@@ -18,3 +19,4 @@ after then `npm install johnny-five`
 _when 2017 using nokia 5510 display_
 
 ![nokia5510screen](https://github.com/alikadir/js-iot-johnny-five/blob/master/assets/20170608_003118.jpg?raw=true)
+
