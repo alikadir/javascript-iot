@@ -17,4 +17,4 @@ after then `npm install johnny-five`
 
 _when 2017 using nokia 5510 display_
 
-[!nokia5510screen](https://github.com/alikadir/js-iot-johnny-five/blob/master/assets/20170608_003118.jpg)
+![nokia5510screen](https://github.com/alikadir/js-iot-johnny-five/blob/master/assets/20170608_003118.jpg?raw=true)
