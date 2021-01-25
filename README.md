@@ -1,6 +1,6 @@
 ## For Raspberry-Pi 3 Model B Plus (also Raspberry-Pi Zero),
-- `npm install raspi-io`
-- `npm install johnny-five`
+- depends on raspi-io and johnny-five npm packages
+- `npm i`
 - `node raspberry-pi.js`
 
 ## For Arduino Nano (and all Arduino Models),
@@ -9,7 +9,8 @@
 - Tools > Board > Arduino Nano
 - Tools> Processor > ATmega328P (Old Bootloader)
 - Tools> Port > usbserial-xxx
-- `npm install johnny-five`
+- depends on johnny-five npm package and StandardFirmataPlus script on Arduino
+- `npm i`
 - `node arduino.js`
 
 
