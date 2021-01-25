@@ -1,9 +1,9 @@
-## For Raspberry Pi,
+## For Raspberry-Pi 3 Model B Plus (also Raspberry-Pi Zero),
 - `npm install raspi-io`
 - `npm install johnny-five`
 - `node raspberry-pi.js`
 
-## For Arduino Nano,
+## For Arduino Nano (and all Arduino Models),
 - Arduino IDE download
 - File > Example > Firmata > StandardFirmataPlus
 - Tools > Board > Arduino Nano
