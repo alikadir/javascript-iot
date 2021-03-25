@@ -24,5 +24,5 @@ after then `npm install johnny-five`
 
 _when 2017 using nokia 5510 display_
 
-![nokia5510screen](https://github.com/alikadir/javascript-robotics-iot/blob/master/assets/20170608_003118.jpg?raw=true)
+![nokia5510screen](https://github.com/alikadir/javascript-robotics-iot/blob/main/assets/20170608_003118.jpg?raw=true)
 
